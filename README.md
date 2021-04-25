@@ -1,4 +1,4 @@
-# dz65rgb_v2_custom_keymap
+# dz65rgb v2 my custom keymap
 
 My custom keymap for the dz65rgb v2 keyboard firmware. Includes via support, changed default keymap for my keyboards layout and changed default startup rgb effects.
 
